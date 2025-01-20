@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as t}from"./chunks/framework.PjeL7Env.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),e={name:"index.md"},l=t("",8),c=[l];function o(n,p,d,r,h,k){return a(),i("div",null,c)}const _=s(e,[["render",o]]);export{u as __pageData,_ as default};

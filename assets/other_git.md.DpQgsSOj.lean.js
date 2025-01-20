@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,a1 as n}from"./chunks/framework.PjeL7Env.js";const h=JSON.parse('{"title":"提交类型","description":"","frontmatter":{},"headers":[],"relativePath":"other/git.md","filePath":"other/git.md"}'),d={name:"other/git.md"},l=n("",2),a=[l];function s(c,i,o,g,x,y){return r(),e("div",null,a)}const f=t(d,[["render",s]]);export{h as __pageData,f as default};
